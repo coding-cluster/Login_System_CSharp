@@ -134,3 +134,4 @@ C:\Users\alexi\Documents\00000 - MAIN DEV\CS_CODING\Lenguajes de Computación II
 C:\Users\alexi\Documents\00000 - MAIN DEV\CS_CODING\Lenguajes de Computación II\Parcial 2\Login_System\Login_System\obj\Debug\net8.0\Login_System.csproj.CopyComplete
 C:\Users\alexi\Documents\00000 - MAIN DEV\CS_CODING\Lenguajes de Computación II\Parcial 2\Login_System\Login_System\obj\Debug\net8.0\Login_System.genruntimeconfig.cache
 C:\Users\alexi\Documents\00000 - MAIN DEV\CS_CODING\Lenguajes de Computación II\Parcial 2\Login_System\Login_System\obj\Debug\net8.0\ref\Login_System.dll
+C:\Users\alexi\Documents\00000 - MAIN DEV\CS_CODING\Lenguajes de Computación II\Parcial 2\Login_System\Login_System\obj\Debug\net8.0\Login_System.sourcelink.json
