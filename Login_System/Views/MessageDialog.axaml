@@ -1,0 +1,23 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Width="300"
+        Height="150"
+        CanResize="False"
+        x:Class="Login_System.Views.MessageDialog"
+        WindowStartupLocation="CenterOwner"
+        Title="MessageDialog">
+	<StackPanel Margin="20"
+	            HorizontalAlignment="Center" VerticalAlignment="Center">
+		<TextBlock Name="MessageTextBlock" Text="Mensaje aquí"
+		           FontSize="20" FontWeight="Bold"/>
+		<Button Content="Aceptar" Click="AcceptClick"
+		        Width="100" Height="40"
+		        HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+		        HorizontalAlignment="Center"
+		        FontSize="16" FontWeight="Medium"
+		        Margin="0 20 0 0"
+		        Background="Black" Foreground="White" CornerRadius="20"/>
+	</StackPanel>
+</Window>
