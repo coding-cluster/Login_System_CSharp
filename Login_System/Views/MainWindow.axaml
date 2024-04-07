@@ -30,7 +30,7 @@
 			<TextBox Name="PassBox"
 			         Width="300" Height="50" FontSize="16"
 			         VerticalContentAlignment="Center"
-			         Foreground="Black" Watermark='Ingresa "abc123"'
+			         Background="White" Foreground="Black" Watermark='Ingresa "abc123"'
 			         Margin="0 0 0 150"
 			         CornerRadius="10"/>
 			<Button Name="SignIn" Click="SignIn_OnClick"
